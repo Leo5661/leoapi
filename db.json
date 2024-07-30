@@ -1,88 +1,69 @@
 {
-    "contact": [
+    "places": [
         {
-            "id":1,
-            "first_name":"Rahul",
-            "last_name":"Singh",
-            "country_code":"+91",
-            "mobile_number":"9810153260"
+            name: "Mumbai",
+            code: "BOM"
         },
         {
-            "id":2,
-            "first_name":"Advitiya",
-            "last_name":"Sujeet",
-            "country_code":"+91",
-            "mobile_number":"9810153260"
+            name: "Delhi",
+            code: "DEL"
+        },
+         {
+            name: "Bongkok",
+            code: "BKK"
         },
         {
-            "id":3,
-            "first_name":"Amrish",
-            "last_name":"Ilyas",
-            "country_code":"+91",
-            "mobile_number":"75184429"
+            name: "Dubai",
+            code: "DXB"
         },
         {
-            "id":4,
-            "first_name":"Vinay",
-            "last_name":"Sharma",
-            "country_code":"+91",
-            "mobile_number":null
+            name: "Barcelona",
+            code: "BCN"
         },
         {
-            "id":5,
-            "first_name":"Aman",
-            "last_name":"sharma",
-            "country_code":"+91",
-            "mobile_number": null
+            name: "New York",
+            code: "JFK"
         },
         {
-            "id":6,
-            "first_name":"Rupa",
-            "last_name":"",
-            "country_code":"+91",
-            "mobile_number":"8745896574"
+            name: "Prayagraj",
+            code: "IXD"
         },
+    ],
+    "flights": [
         {
-            "id":7,
-            "first_name":"Aman",
-            "last_name":"sharma",
-            "country_code":"+91",
-            "mobile_number":"8745896574"
-        },
-        {
-            "id":8,
-            "first_name":"Hema",
-            "last_name":"sharma",
-            "country_code":"+91",
-            "mobile_number":"8745896574"
-        },
-        {
-            "id":9,
-            "first_name":"Aman",
-            "last_name":"Parmar",
-            "country_code":"+91",
-            "mobile_number":"8745896574"
-        },
-        {
-            "id":10,
-            "first_name":"Aman",
-            "last_name":"sharma",
-            "country_code":"+91",
-            "mobile_number":"8745896574"
-        },
-        {
-            "id":11,
-            "first_name":"Aman",
-            "last_name":"sharma",
-            "country_code":"+91",
-            "mobile_number":"8745896574"
-        },
-        {
-            "id":12,
-            "first_name":"Aman",
-            "last_name":"sharma",
-            "country_code":"+91",
-            "mobile_number":"8745896574"
-        }
+        modal: 'Boeing 737',
+        airline: 'Indigo',
+        flightId: '6E123',
+    },
+    {
+        modal: 'Airbus A320',
+        airline: 'Indigo',
+        flightId: '6E456',
+    },
+    {
+        modal: 'Boeing 737',
+        airline: 'Indigo',
+        flightId: '6E124',
+    },
+    {
+        modal: 'Airbus A320',
+        airline: 'Indigo',
+        flightId: '6E466',
+    },
+    {
+        modal: 'Boeing 737',
+        airline: 'Indigo',
+        flightId: '6E323',
+    },
+    {
+        modal: 'Airbus A320',
+        airline: 'Indigo',
+        flightId: '6E286',
+    },
+    {
+        modal: 'Boeing 737',
+        airline: 'Indigo',
+        flightId: '6E130',
+    },
     ]
 }
